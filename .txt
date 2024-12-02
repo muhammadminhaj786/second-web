@@ -1,0 +1,7 @@
+git init
+git config --global  user.name "muhammmadminhaj786"
+git config --global user.email "jis email par github banawa he"
+git add .
+git commit -m "first"
+git branch -M main
+git 
